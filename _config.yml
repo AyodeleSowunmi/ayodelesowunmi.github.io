@@ -1,0 +1,14 @@
+title: Ayodele Sowunmi
+description: Technical Support Engineer | Linux | Infrastructure | Automation | Homelab
+theme: minima
+
+url: "https://ayodelesowunmi.com"
+baseurl: ""
+
+github_username: ayodelesowunmi
+
+header_pages:
+  - resume.md
+  - projects.md
+  - blog.md
+  - contact.md
