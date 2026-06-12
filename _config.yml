@@ -1,14 +1,28 @@
 title: Ayodele Sowunmi
-description: Technical Support Engineer | Linux | Infrastructure | Automation | Homelab
-theme: minima
-
-url: "https://ayodelesowunmi.com"
+description: Technical Support Engineer building expertise in Linux, Infrastructure, Automation, and Platform Engineering
+url: "https://ayodelesowunmi.github.io"
 baseurl: ""
 
-github_username: ayodelesowunmi
+remote_theme: mmistakes/minimal-mistakes
 
-header_pages:
-  - resume.md
-  - projects.md
-  - blog.md
-  - contact.md
+plugins:
+  - jekyll-include-cache
+
+author:
+  name: "Ayodele Sowunmi"
+  bio: "Technical Support Engineer focused on Linux, infrastructure, automation, and homelab-based learning."
+  location: "Lagos, Nigeria"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/AyodeleSowunmi"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ayodele@ayodelesowunmi.com"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
