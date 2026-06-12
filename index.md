@@ -1,7 +1,16 @@
 ---
-layout: page
-title: Home
+layout: splash
+title: "Ayodele Sowunmi"
 permalink: /
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  actions:
+    - label: "View Projects"
+      url: "/projects/"
+    - label: "View Resume"
+      url: "/resume/"
+excerpt: "Technical Support Engineer building expertise in Linux, Infrastructure, Automation, and Platform Engineering."
 ---
 
 # Hi, I'm Ayodele Sowunmi
