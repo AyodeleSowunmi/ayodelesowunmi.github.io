@@ -6,7 +6,7 @@ permalink: /resume/
 
 ## Professional Summary
 
-Technical Support Engineer with 7+ years resolving complex, high-priority technical issues for enterprise B2B SaaS customers across Linux, cloud, and containerized environments. Experienced supporting SIEM platforms, WAF deployments, SSO/authentication troubleshooting, and log management pipelines. Comfortable working independently across cross-functional, multicultural teams spanning APAC, EMEA, and Americas time zones, with a track record of on-call incident response and cross-team escalation handling.
+Technical Support Engineer with 7+ years of experience resolving complex, high-priority technical issues for enterprise B2B SaaS customers across Linux, cloud, and containerized environments. Experienced supporting SIEM platforms, WAF deployments, SSO/authentication troubleshooting, and log management pipelines. Comfortable working independently across cross-functional, multicultural teams spanning APAC, EMEA, and Americas time zones, with a track record of on-call incident response and cross-team escalation handling.
 
 ## Professional Experience
 
