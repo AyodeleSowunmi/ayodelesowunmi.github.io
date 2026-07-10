@@ -40,5 +40,5 @@ I built a reusable Linux template workflow for my Proxmox homelab that automated
 
 ## Contact
 
-- GitHub: https://github.com/ayodelesowunmi
-- Email: ayodele@ayodelesowunmi.com
+- GitHub: [github.com/ayodelesowunmi](https://github.com/ayodelesowunmi)
+- Email: [ayodele@ayodelesowunmi.com](mailto:ayodele@ayodelesowunmi.com)
