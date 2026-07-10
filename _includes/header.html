@@ -1,0 +1,12 @@
+<header class="site-header">
+  <div class="header-inner">
+    <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+    <nav class="site-nav" aria-label="Primary navigation">
+      <ul>
+        <li><a href="{{ '/' | relative_url }}"{% if page.url == "/" %} aria-current="page"{% endif %}>Home</a></li>
+        <li><a href="{{ '/resume/' | relative_url }}"{% if page.url == "/resume/" %} aria-current="page"{% endif %}>Résumé</a></li>
+        <li><a class="contact-link" href="mailto:ayodele@ayodelesowunmi.com">Email</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>

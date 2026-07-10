@@ -1,0 +1,13 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+{% assign page_title = page.title | default: site.title %}
+{% if page_title == site.title %}
+  <title>{{ site.title | escape }}</title>
+{% else %}
+  <title>{{ page_title | escape }} | {{ site.title | escape }}</title>
+{% endif %}
+{% assign page_description = page.description | default: site.description %}
+{% if page_description %}<meta name="description" content="{{ page_description | strip_html | normalize_whitespace | escape }}">{% endif %}
+<link rel="canonical" href="{{ page.url | replace: 'index.html', '' | absolute_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
