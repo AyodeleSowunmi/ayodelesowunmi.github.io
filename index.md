@@ -30,19 +30,13 @@ I am currently expanding my skills in:
 
 while continuing to build on my experience in technical support, troubleshooting, and customer-facing engineering.
 
-## Featured Projects
+## Technical Work
 
-### Proxmox Golden Image Automation
+### Proxmox Linux Template Automation
 
-Automated Linux template creation using cloud-init, DNS integration, and deployment automation.
+I built a reusable Linux template workflow for my Proxmox homelab that automated VM configuration, DNS registration, NXLog Agent deployment, and Platform auto-enrollment.
 
-### Homelab Infrastructure
-
-A personal infrastructure platform used for learning, experimentation, automation, and technical documentation.
-
-### Jellyfin Media Platform
-
-A self-hosted media environment built with Docker and supporting services.
+[Read the case study](/technical-work/proxmox-linux-template-automation/) · [View the repository](https://github.com/AyodeleSowunmi/proxmox-golden-image-automation)
 
 ## Contact
 
