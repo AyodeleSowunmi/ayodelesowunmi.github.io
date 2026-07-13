@@ -6,29 +6,11 @@ permalink: /
 
 # Hi, I'm Ayodele Sowunmi
 
-I'm a Technical Support Engineer with a strong background in troubleshooting, Linux, networking, log management, and infrastructure technologies.
+**Technical Support Engineer \| Linux \| Infrastructure \| Enterprise Security**
 
-My interests include:
+I'm a Technical Support Engineer specializing in Linux systems, infrastructure, and enterprise security platforms. My experience spans enterprise customer support, Linux administration, virtualization, security platforms, and technical investigations across production environments.
 
-- Linux
-- Infrastructure Engineering
-- Automation
-- Cloud Technologies
-- Networking
-- Homelab Design
-- Platform Engineering
-
-## Current Focus
-
-I am currently expanding my skills in:
-
-- DevOps
-- Infrastructure Automation
-- Containers
-- Kubernetes
-- Cloud Platforms
-
-while continuing to build on my experience in technical support, troubleshooting, and customer-facing engineering.
+I enjoy investigating complex technical problems, performing root cause analysis, reproducing issues, and building practical automation. My work has also included troubleshooting containerized deployments and communicating technical findings clearly while collaborating with customers and engineering teams.
 
 ## Technical Work
 
