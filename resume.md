@@ -4,13 +4,13 @@ title: Resume
 permalink: /resume/
 ---
 
+[Download Resume (PDF)](/assets/Ayodele_Sowunmi_Resume.pdf){:.button}
+
 ## Professional Summary
 
 **Technical Support Engineer \| Linux \| Infrastructure \| Enterprise Security**
 
 Enterprise Technical Support Engineer specializing in Linux systems, infrastructure, and enterprise security platforms. Experienced in customer-facing troubleshooting, root cause analysis, problem reproduction, and technical investigations across production and containerized environments. Partners with customers, software developers, and engineering teams to diagnose complex issues, communicate findings, and deliver reliable technical outcomes. Hands-on experience includes virtualization, container deployment troubleshooting, observability, and technical documentation.
-
-[Download the résumé PDF](/assets/Ayodele_Sowunmi_Resume.pdf)
 
 ## Professional Experience
 
